@@ -1,3 +1,5 @@
 import os
 
-print(os.path)
+print(os.__path__)
+
+print("hi")
